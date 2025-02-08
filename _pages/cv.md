@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://kon-piggu.github.io/files/Qian_Xiang_CV_202501.pdf)
+
 Education
 ======
 * B.S. in Electronic Commerce, School of Economics and Business Administration, Chongqing University, 2015
