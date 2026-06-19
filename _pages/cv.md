@@ -13,15 +13,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic Commerce, School of Economics and Business Administration, Chongqing University, 2015
-* Exchange student, College of Management, National Chung Hsing University, 2012
-* Ph.D in Strategic Management, Lingnan College, Sun Yat-sen University, 2020
-* Visiting doctoral student, Asper Business School, University of Manitoba, 2018-2019
+* 2015.8–2020.12, Ph.D. of Management, Lingnan College, Sun Yat-sen University
+* 2018.3–2019.3, Visiting doctoral student, Asper Business School, University of Manitoba
+* 2012.3–2012.6, Exchange student, College of Management, National Chung Hsing University
+* 2011.9–2015.6, Bachelor of Management, School of Economics and Business Administration, Chongqing University
 
 Work experience
 ======
-* 2021-now: Assistant Professor
-  * School of Finance and Economics, Guangdong Polytechnic Normal University
+* 2025.8–2026.8, Visiting postdoctoral researcher, School of Economics and Management, Tilburg University
+* 2021.4–now, Assistant Professor, School of Finance and Economics, Guangdong Polytechnic Normal University
   
 Skills
 ======
