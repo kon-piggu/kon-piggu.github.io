@@ -10,38 +10,22 @@ redirect_from:
 
 WORK EXPERIENCE
 ======
-2021.4-now    
-School of Finance and Economics, Guangdong Polytechnic Normal University 
-Assistant Professor
-
-2025.8-2026.8
-School of Economics and Management, Tilburg University
-Visting postdoctoral researcher
+* 2025.8–2026.8, Visiting postdoctoral researcher, School of Economics and Management, Tilburg University
+* 2021.4–now, Assistant Professor, School of Finance and Economics, Guangdong Polytechnic Normal University
 
 EDUCATION
 ======
 
-2011.9-2015.6
-School of Economics and Business Administration, Chongqing University 
-Bachelor of Management
-
-2012.3-2012.6
-College of Management, National Chung Hsing University
-Exchange student
-
-2015.8-2020.12
-Lingnan College, Sun Yat-sen University
-Ph.D. of Management
-
-2018.3-2019.3
-Asper Business School, University of Manitoba
-Visiting doctoral student
+* 2015.8–2020.12, Ph.D. of Management, Lingnan College, Sun Yat-sen University
+* 2018.3–2019.3, Visiting doctoral student, Asper Business School, University of Manitoba
+* 2012.3–2012.6, Exchange student, College of Management, National Chung Hsing University
+* 2011.9–2015.6, Bachelor of Management, School of Economics and Business Administration, Chongqing University
 
 PRMARY RESEARCH AREAS
 ======
 
-New venture legitimation
-Intellectual property rights and knowledge transfer
-Entrepreneurial financing and signaling
+New venture legitimation  
+Intellectual property rights and knowledge transfer  
+Entrepreneurial financing and signaling  
 
 ------
