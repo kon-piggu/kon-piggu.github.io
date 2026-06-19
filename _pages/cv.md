@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://kon-piggu.github.io/files/Qian_Xiang_CV_202501.pdf)
+[Download CV here](http://kon-piggu.github.io/files/Qian_Xiang_CV_202606.pdf)
 
 Education
 ======
