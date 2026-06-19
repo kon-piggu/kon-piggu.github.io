@@ -24,8 +24,8 @@ EDUCATION
 PRMARY RESEARCH AREAS
 ======
 
-New venture legitimation  
-Intellectual property rights and knowledge transfer  
-Entrepreneurial financing and signaling  
+* New venture legitimation  
+* Intellectual property rights and knowledge transfer  
+* Entrepreneurial financing and signaling  
 
 ------
