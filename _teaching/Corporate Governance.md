@@ -7,9 +7,9 @@ venue: "School of Finance and Economics, Guangdong Polytechnic Normal University
 date: 2022-04-01
 location: "Guangzhou, China"
 ---
-•	Corporate Governance [Bachelor Course, 2022-2024 Spring] teaching in Chinese
+•	Corporate Governance [Bachelor Course, 2022-2025 Spring] teaching in Chinese
 
-•	Corporate Governance [Bachelor Course, 2024 Fall] teaching in English
+•	Corporate Governance [Bachelor Course, 2025 Fall] teaching in English
 
 About this course
 ======
