@@ -7,7 +7,7 @@ venue: "School of Finance and Economics, Guangdong Polytechnic Normal University
 date: 2023-09-01
 location: "Guangzhou, China"
 ---
-•	Strategic Management [Bachelor Course, 2023-2024 Fall] teaching in English
+•	Strategic Management [Bachelor Course, 2023-2025 Fall] teaching in English
 
 About this course
 ======
